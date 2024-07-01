@@ -1,11 +1,9 @@
 # Sales-Insights-Tableau
 Reveneu Analysis and profit Analysis DashBoard using Tableau
 
-Project: Sales-Insights-Tableau
+**Overview**:The "Sales-Insights-Tableau" project utilizes Tableau to create an interactive dashboard for comprehensive sales data analysis.
 
-Overview:The "Sales-Insights-Tableau" project utilizes Tableau to create an interactive dashboard for comprehensive sales data analysis.
-
-Objectives:
+**Objectives**:
 
 1. Data Visualization: Convert raw sales data into clear, visual formats.
   
